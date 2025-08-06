@@ -22,7 +22,7 @@
             <stringProp name="Header.name">Content-Type</stringProp>
             <stringProp name="Header.value">application/x-www-form-urlencoded</stringProp>
           </elementProp>
-          <elementProp name="" elementType="Header">
+          <elementProp nam     e="" elementType="Header">
             <stringProp name="Header.name">Authorization</stringProp>
             <stringProp name="Header.value">${token}</stringProp>
           </elementProp>
